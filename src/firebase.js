@@ -4,13 +4,7 @@ import 'firebase/compat/auth';
 import 'firebase/compat/firestore';
 
 const firebaseConfig = {
-  apiKey: "AIzaSyAWeQIdg0Hp0zFI2xjLF3M_F3571adZ4Yw",
-  authDomain: "netflix---clone-ca469.firebaseapp.com",
-  projectId: "netflix---clone-ca469",
-  storageBucket: "netflix---clone-ca469.appspot.com",
-  messagingSenderId: "631461868310",
-  appId: "1:631461868310:web:33431e0f0aa615363fd637",
-  measurementId: "G-EGF41NYM04"
+ PUT_YOURE_OWN_FIREBASE_CONFIG
 };
 
 const firebaseApp = firebase.initializeApp(firebaseConfig)
